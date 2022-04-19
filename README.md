@@ -1,2 +1,2 @@
 # images
-github图床
+img
